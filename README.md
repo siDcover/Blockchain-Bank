@@ -2,6 +2,8 @@
 
 This is a blockchain bank running on Ganache.
 Investor stakes mDAI tokens and get rewarded as interest with Dapp Tokens whenever owner wants them to. 
+* Owner = 1st Ganache account
+* Investor = 2nd Ganache account
 
 ## Features
 
