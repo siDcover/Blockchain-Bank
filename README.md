@@ -23,6 +23,7 @@ To setup a local development environment:
 
 ### Install development dependencies,
 Install Node.js from https://nodejs.org/en/ and Ganache from https://www.trufflesuite.com/ganache
+and truffle through-
 ```bash
 npm install --g truffle@5.1.39
 ```
@@ -31,7 +32,7 @@ Set up MetaMask extension for second Account of Ganache
 
 ### Clone GitHub Project,
 ```bash
-git clone https://github.com/siDcover/CryptoBank CryptoBank
+git clone https://github.com/siDcover/Blockchain-Bank Blockchain_Bank
 ```
 
 ### Migrate and Deploy,
