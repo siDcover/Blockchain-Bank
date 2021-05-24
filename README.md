@@ -17,7 +17,7 @@ Be sure you have the following installed on your development machine:
 
 + node.js
 + Ganache
-+ Truffle
++ Truffle = v.5.1.39
 + MetaMask Chrome extension
 
 ## Project Installation
