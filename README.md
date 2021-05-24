@@ -1,6 +1,6 @@
-# CryptoBank
+# BlockchainBank
 
-This is a Crypto bank running on Ganache.
+This is a blockchain bank running on Ganache.
 
 ## Features
 
