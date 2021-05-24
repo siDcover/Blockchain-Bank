@@ -6,7 +6,7 @@ This is a blockchain bank running on Ganache.
 
 * Staking mDAI Tokens
 * Earn Dapp Tokens
-* Unstake mDai Tokens 
+* Unstaking mDai Tokens 
 
 ## Prerequisites
 
