@@ -1,6 +1,8 @@
 # BlockchainBank
 
 This is a blockchain bank running on Ganache.
+I have set up the first and second account of ganache as owner and investor.
+Investor stakes mDAI tokens and get rewarded as interest with Dapp Tokens whenever owner wants them to. 
 
 ## Features
 
